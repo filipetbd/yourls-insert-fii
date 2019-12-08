@@ -1,4 +1,6 @@
 <?php
+// Exit if accessed directly
+if ( !defined( 'ABSPATH' ) ) exit;
 /**
 * Plugin Name: Yourls Insert Fii
 * Plugin URI: http://filipetbd.xyz/
